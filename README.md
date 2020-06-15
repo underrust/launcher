@@ -1,2 +1,2 @@
-# launcher
-LauncherUpdater
+# лаунчер проекта UnderRust
+203devblog launcher Core
